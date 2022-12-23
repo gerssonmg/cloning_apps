@@ -90,14 +90,14 @@ export default function HomeComponent({ }) {
         <Typography variant="subtitle2" style={{ color: "#6B6B6B" }}>
           Limite disponível de 550,00
         </Typography>
-        {/*
-        Caiu o 13°? Nas Caixinhas ele pode render o ano todo.
-
-
-        <h2>Cartão de crédito</h2>
-        <h2>Fatura atual</h2>
-        <h2>Limite disponivel de 550,00</h2>
-        <h2>Rewards</h2>*/
+        {
+          /*
+          Caiu o 13°? Nas Caixinhas ele pode render o ano todo.
+  
+          <h2>Cartão de crédito</h2>
+          <h2>Fatura atual</h2>
+          <h2>Limite disponivel de 550,00</h2>
+          <h2>Rewards</h2>*/
         }
       </Box>
     </>
