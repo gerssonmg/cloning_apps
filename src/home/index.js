@@ -97,6 +97,7 @@ export default function HomeComponent({ }) {
           <h2>Cartão de crédito</h2>
           <h2>Fatura atual</h2>
           <h2>Limite disponivel de 550,00</h2>
+          
           <h2>Rewards</h2>*/
         }
       </Box>
