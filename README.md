@@ -1,11 +1,6 @@
 # Acessando ubuntu por usuario especifico
 # wsl --user gersonasus
 
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -21,8 +16,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ![image](https://user-images.githubusercontent.com/12429717/209453550-4f4bbb50-5d5d-4932-856f-ef795d5d2949.png)
 -->
 
+<!--
 <img src="https://user-images.githubusercontent.com/12429717/209453550-4f4bbb50-5d5d-4932-856f-ef795d5d2949.png" alt="meme natal" width="300px" height="350px"/>
-
+-->
 
 <!--
 Launches the test runner in the interactive watch mode.\
