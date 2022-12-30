@@ -1,16 +1,16 @@
 import React from 'react';
-import Box from '@mui/material/Box'
 import AccountCircleOutlinedIcon from '@mui/icons-material/AccountCircleOutlined';
-import RemoveRedEyeOutlinedIcon from '@mui/icons-material/RemoveRedEyeOutlined';
-import HelpOutlineOutlinedIcon from '@mui/icons-material/HelpOutlineOutlined';
-import UnsubscribeOutlinedIcon from '@mui/icons-material/UnsubscribeOutlined';
-import Typography from '@mui/material/Typography';
-import CropDinIcon from '@mui/icons-material/CropDin';
-import QrCodeIcon from '@mui/icons-material/QrCode';
 import ArrowUpwardIcon from '@mui/icons-material/ArrowUpward';
 import ArrowDownwardIcon from '@mui/icons-material/ArrowDownward';
 import AccountBalanceWalletOutlinedIcon from '@mui/icons-material/AccountBalanceWalletOutlined';
+import Box from '@mui/material/Box'
+import CropDinIcon from '@mui/icons-material/CropDin';
 import Divider from '@mui/material/Divider';
+import HelpOutlineOutlinedIcon from '@mui/icons-material/HelpOutlineOutlined';
+import RemoveRedEyeOutlinedIcon from '@mui/icons-material/RemoveRedEyeOutlined';
+import Typography from '@mui/material/Typography';
+import UnsubscribeOutlinedIcon from '@mui/icons-material/UnsubscribeOutlined';
+import QrCodeIcon from '@mui/icons-material/QrCode';
 
 export default function HomeComponent({ }) {
   return (
