@@ -49,6 +49,7 @@ export default function HomeComponent({ }) {
             </Typography>
           </Box>
 
+
           <Box
             mt={3}
             p={3}
@@ -120,6 +121,9 @@ function HeaderComponent() {
       <Box display="flex" flexDirection="row" justifyContent="space-between">
         <AccountCircleOutlinedIcon style={{ width: "40px", height: "40px" }} />
         <Box>
+
+
+
           <RemoveRedEyeOutlinedIcon style={{ width: "30px", height: "30px" }} />
           <HelpOutlineOutlinedIcon style={{ width: "30px", height: "30px", marginLeft: "16px", marginRight: "16px" }} />
           <UnsubscribeOutlinedIcon style={{ width: "30px", height: "30px" }} />
@@ -147,6 +151,8 @@ function MyCardsComponent() {
       color="action"
       style={{ marginRight: "10px", transform: "rotate(-90deg)" }}
     />
+
+
     <Typography variant="subtitle2">
       Meus Cartões
     </Typography>
@@ -179,6 +185,9 @@ function OptionsSpeed() {
 
       </Box>
 
+      <h1>
+        EP 09
+      </h1>
       <Box mr={2} display="flex" alignItems="center" flexDirection="column">
         <Box
           display="flex"
@@ -245,7 +254,7 @@ function OptionsSpeed() {
           <ArrowDownwardIcon color="action" style={{ width: "40px", height: "40px" }} />
         </Box>
         <Typography variant='subtitle2'>
-          Depositar
+          Depositar 02
         </Typography>
       </Box>
     </Box>
