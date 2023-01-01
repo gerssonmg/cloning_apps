@@ -254,7 +254,7 @@ function OptionsSpeed() {
           <ArrowDownwardIcon color="action" style={{ width: "40px", height: "40px" }} />
         </Box>
         <Typography variant='subtitle2'>
-          Depositar 02
+          Depositar 04
         </Typography>
       </Box>
     </Box>
