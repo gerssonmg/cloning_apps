@@ -28,7 +28,6 @@ export default function HomeComponent({ }) {
 
         <MyCardsComponent />
 
-
         <Box display="flex">
           <Box
             mt={3}
