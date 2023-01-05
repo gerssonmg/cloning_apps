@@ -40,6 +40,7 @@ export default function HomeComponent({ }) {
           >
             <Typography variant="subtitle2">
               Você tem R$25.000,00
+
               <Typography variant="subtitle2" color>
                 disponiveis para <span style={{ color: "#A349A4" }}>
                   empréstimo
