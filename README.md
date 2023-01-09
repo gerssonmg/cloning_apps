@@ -1,5 +1,6 @@
-# Acessando ubuntu por usuario especifico
-# wsl --user gersonasus
+#  Cloning UI App Nubank
+
+# [Link do EP 04 Cloning UI Nubank:](https://www.youtube.com/watch?v=ijdeDpz0B1Y)
 
 ## Available Scripts
 
