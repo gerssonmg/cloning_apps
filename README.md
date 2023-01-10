@@ -2,6 +2,9 @@
 
 # [Link do EP 04 Cloning UI Nubank:](https://www.youtube.com/watch?v=ijdeDpz0B1Y)
 
+<img src="https://user-images.githubusercontent.com/12429717/211449016-d473a1e3-fe90-4d5f-beba-690f7192b904.png" width="300px" heigth="500px" alt="thumb"/>
+
+
 ## Available Scripts
 
 In the project directory, you can run:
